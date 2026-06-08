@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+I am a research‐oriented AI engineer specialising in LLM evaluation, reliability assessment, and the deployment of AI systems in multilingual,
+resource‐constrained settings. At CivicDataLab, I lead the development of ParakhAI, an AI evaluation platform under the IndiaAI Mission.
+Alongside this, I have led multilingual dataset infrastructure for Indic languages, designed and deployed agentic LLM systems and conducted
+applied research in model compression. Before this, I spent three years at Partners in Change and affiliated organisations on data‐driven
+initiatives across corporate accountability, impact evaluation, and community welfare. I have an MSc in Physics and five years of technical
+experience spanning applied data science, AI, and community‐centred research.
 
 <!--
 **psaesha/psaesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
